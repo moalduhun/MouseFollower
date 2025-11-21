@@ -45,10 +45,11 @@ The app displays animated shapes that follow the mouse with smooth motion, visua
 ### 1. Install Python  
 Python 3.10+ is recommended.
 
+
 ### 2. Install Requirements  
+```bash
 pip install PyQt6 qtawesome pywin32
-
-
+```
 
 ### Images
 <img width="449" height="702" alt="image" src="https://github.com/user-attachments/assets/7abdd778-deff-42a1-942d-cc6b1e86b180" />
