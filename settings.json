@@ -1,0 +1,13 @@
+{
+    "num_dots": 10,
+    "follow_speed": 0.25,
+    "lag_speed": 0.2,
+    "max_size": 20,
+    "color": [
+        0,
+        255,
+        255
+    ],
+    "shape": "Circle",
+    "image_path": ""
+}
